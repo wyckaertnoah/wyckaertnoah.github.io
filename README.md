@@ -2,9 +2,9 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <title> Ma page personnelle </title>
     </head>
     <body>
-        <title> Ma page personnelle </title>
         <p>Je m'appele Noah Wyckaert et j'ai 16 ans. Je suis en 1G10 au lycée international de Ferney-Voltaire. Mes spécialités, cette année sont</p>
         <ul>
         <li>mathématiques</li>
